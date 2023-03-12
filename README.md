@@ -8,14 +8,12 @@ Easy Shopping é uma landing page criada para treinamento de habilidades com as 
 <hr>
 
 ## Layout web
-<br>
 
 <img src="./img/easy-shopping.png"/>
 
 <hr>
 
 ## Layout mobile
-<br>
 
 <img src="./img/layout-mobile.png" width=250>
 
