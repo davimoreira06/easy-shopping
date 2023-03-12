@@ -30,4 +30,5 @@ Easy Shopping é uma landing page criada para treinamento de habilidades com as 
 ## Autor
 
 Davi Mendonça Moreira
+<br>
 https://www.linkedin.com/in/davi-moreira-a71587261/
