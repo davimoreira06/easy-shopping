@@ -5,19 +5,20 @@
 https://davimoreira06.github.io/easy-shopping/
 
 Easy Shopping é uma landing page criada para treinamento de habilidades com as ferramentas HTML e CSS.
-<hr>
+
+#
 
 ## Layout web
 
 <img src="./img/easy-shopping.png"/>
 
-<hr>
+#
 
 ## Layout mobile
 
 <img src="./img/layout-mobile.png" width=250>
 
-<hr>
+#
 
 ## Tecnologias utilizadas
 ### Front-End
@@ -25,7 +26,7 @@ Easy Shopping é uma landing page criada para treinamento de habilidades com as 
 - HTML
 - CSS
 
-<hr>
+#
 
 ## Autor
 
